@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/keylogger.git
+   git clone https://github.com/Siddharthan03/Key-Logger.git
    cd keylogger
    pip install pynput
    python keylogger.py
